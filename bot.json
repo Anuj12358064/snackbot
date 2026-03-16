@@ -1,0 +1,6 @@
+{
+  "name": "SNACK_BUY_BOT",
+  "version": "1.0.0",
+  "description": "Snack Buy Telegram Bot",
+  "main": "index.js"
+}
