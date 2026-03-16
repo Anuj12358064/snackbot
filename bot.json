@@ -1,6 +1,6 @@
 {
+  "bb_sync_version": "1.0",
   "name": "SNACK_BUY_BOT",
   "version": "1.0.0",
-  "description": "Snack Buy Telegram Bot",
-  "main": "index.js"
+  "description": "Snack Buy Telegram Bot"
 }
